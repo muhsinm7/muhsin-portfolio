@@ -1,2 +1,3 @@
 # Hi, I'm Muhammed Muhsin 
-Data Analyst | MCA Graduate | Transforming Insights into Impact
+**_Data Analyst_** | **_MCA Graduate_** | **_Transforming Insights into Impact_**
+[Linkedin](https://www.linkedin.com/in/muhammed-muhsin-m/)
